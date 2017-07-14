@@ -118,6 +118,6 @@ your text.)
 
 ## Stretch Goals
 
-* Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way).
-* How do you turn on line numbering in Vi? Emacs? (Type your answer here.)
-* Explore the Emacs file browser mode. Describe how it works here.
+* Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way).  ** Uploaded to the root directory of this repo. **
+* How do you turn on line numbering in Vi? Emacs? (Type your answer here.)  **Emacs - M-x linum-mode (typing this answer in Emacs with line numbers enabled!) ** **Vi - :set number (typing this in Vi with line numbers enabled!) 
+* Explore the Emacs file browser mode. Describe how it works here. ** I used control + x and then d to open dired in the prompt and then just typed in the * wildcard to view all files. Once I could see all files (I was in the root directory of wats1030-manipulating-text), I pressed enter to open up this README file from that location and typed in this answer. While I was in the browser, I also saw that I could move the cursor to hover over another folder in blue text and then I could open it by pressing enter, and then I could press enter again to open up any file within the folder. Once I am done here, I will save the file and then kill the buffer to return to the file browser. This is really neat! **OBB
