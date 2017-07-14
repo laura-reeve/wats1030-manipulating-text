@@ -9,7 +9,7 @@ are in each editor. With Nano, the most useful commands are right there in front
 of me, so it took no time at all to complete the assignment using this program.
 
 I can see how Emacs and Vi are useful in their own way because there are so many
-other capabilities built in to the program. THey seem to be a bit more robust.
+other capabilities built in to the program. They seem to be a bit more robust.
 Perhaps it was because I watched the Lynda course on Vi, but I feel more comfortable
 with that program over Emacs. Once I got around buffers, and the different names
 for well-known commands (delete/killing, yanking, putting instead of cut, copy, paste), 
